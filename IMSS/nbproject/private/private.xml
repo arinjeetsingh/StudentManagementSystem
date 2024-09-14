@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/arinj/OneDrive/Documents/NetBeansProjects/IMSS/web/AddAdmin.jsp</file>
+            <file>file:/C:/Users/arinj/OneDrive/Documents/NetBeansProjects/IMSS/web/WEB-INF/jsp/AdminPanel.jsp</file>
+            <file>file:/C:/Users/arinj/OneDrive/Documents/NetBeansProjects/IMSS/src/java/institute/RegisterServlet.java</file>
+            <file>file:/C:/Users/arinj/OneDrive/Documents/NetBeansProjects/IMSS/web/ForgotPassword.jsp</file>
+            <file>file:/C:/Users/arinj/OneDrive/Documents/NetBeansProjects/IMSS/src/java/institute/DataBaseUtil.java</file>
+            <file>file:/C:/Users/arinj/OneDrive/Documents/NetBeansProjects/IMSS/src/java/institute/Course.java</file>
+            <file>file:/C:/Users/arinj/OneDrive/Documents/NetBeansProjects/IMSS/src/java/institute/CoursesServlet.java</file>
+            <file>file:/C:/Users/arinj/OneDrive/Documents/NetBeansProjects/IMSS/web/Course.jsp</file>
+            <file>file:/C:/Users/arinj/OneDrive/Documents/NetBeansProjects/IMSS/src/java/institute/EditUserServlet.java</file>
+            <file>file:/C:/Users/arinj/OneDrive/Documents/NetBeansProjects/IMSS/web/AddCourse.jsp</file>
+            <file>file:/C:/Users/arinj/OneDrive/Documents/NetBeansProjects/IMSS/web/Login.jsp</file>
+            <file>file:/C:/Users/arinj/OneDrive/Documents/NetBeansProjects/IMSS/web/EditCourse.jsp</file>
+            <file>file:/C:/Users/arinj/OneDrive/Documents/NetBeansProjects/IMSS/src/java/institute/EmailVerifyServlet.java</file>
+            <file>file:/C:/Users/arinj/OneDrive/Documents/NetBeansProjects/IMSS/web/SelectEditCourse.jsp</file>
+            <file>file:/C:/Users/arinj/OneDrive/Documents/NetBeansProjects/IMSS/src/java/institute/SendOtpServlet.java</file>
+            <file>file:/C:/Users/arinj/OneDrive/Documents/NetBeansProjects/IMSS/src/java/institute/AddCourseServlet.java</file>
+            <file>file:/C:/Users/arinj/OneDrive/Documents/NetBeansProjects/IMSS/src/java/institute/EditStudentServlet.java</file>
+            <file>file:/C:/Users/arinj/OneDrive/Documents/NetBeansProjects/IMSS/src/java/institute/RedirectStudentPanel.java</file>
+            <file>file:/C:/Users/arinj/OneDrive/Documents/NetBeansProjects/IMSS/web/index.jsp</file>
+            <file>file:/C:/Users/arinj/OneDrive/Documents/NetBeansProjects/IMSS/src/java/institute/AddAdminServlet.java</file>
+            <file>file:/C:/Users/arinj/OneDrive/Documents/NetBeansProjects/IMSS/src/java/institute/LogoutServlet.java</file>
+            <file>file:/C:/Users/arinj/OneDrive/Documents/NetBeansProjects/IMSS/src/java/institute/EditCourseServlet.java</file>
+            <file>file:/C:/Users/arinj/OneDrive/Documents/NetBeansProjects/IMSS/web/Register.jsp</file>
+            <file>file:/C:/Users/arinj/OneDrive/Documents/NetBeansProjects/IMSS/src/java/institute/AdminServlet.java</file>
+            <file>file:/C:/Users/arinj/OneDrive/Documents/NetBeansProjects/IMSS/web/EditStudent.jsp</file>
+            <file>file:/C:/Users/arinj/OneDrive/Documents/NetBeansProjects/IMSS/src/java/institute/ForgotPasswordServlet.java</file>
+            <file>file:/C:/Users/arinj/OneDrive/Documents/NetBeansProjects/IMSS/web/editusernew.jsp</file>
+            <file>file:/C:/Users/arinj/OneDrive/Documents/NetBeansProjects/IMSS/src/java/institute/DeleteUserServlet.java</file>
+            <file>file:/C:/Users/arinj/OneDrive/Documents/NetBeansProjects/IMSS/src/java/institute/LoginServlet.java</file>
+            <file>file:/C:/Users/arinj/OneDrive/Documents/NetBeansProjects/IMSS/web/WEB-INF/jsp/StudentPanel.jsp</file>
+            <file>file:/C:/Users/arinj/OneDrive/Documents/NetBeansProjects/IMSS/src/java/institute/StudentServlet.java</file>
+            <file>file:/C:/Users/arinj/OneDrive/Documents/NetBeansProjects/IMSS/web/DeleteUser.jsp</file>
+            <file>file:/C:/Users/arinj/OneDrive/Documents/NetBeansProjects/IMSS/web/WEB-INF/web.xml</file>
+        </group>
+    </open-files>
+</project-private>
